@@ -18,11 +18,6 @@
   </ItemGroup>
 
   <ItemGroup>
-    <Folder Include="Pages\" />
-    <Folder Include="Support\" />
-  </ItemGroup>
-
-  <ItemGroup>
     <None Include="Features\Sdemo.feature" />
   </ItemGroup>
 
@@ -39,6 +34,10 @@
       <Generator>ResXFileCodeGenerator</Generator>
       <LastGenOutput>Environemt.Designer.cs</LastGenOutput>
     </EmbeddedResource>
+  </ItemGroup>
+
+  <ItemGroup>
+    <Folder Include="Support\" />
   </ItemGroup>
 
 </Project>
