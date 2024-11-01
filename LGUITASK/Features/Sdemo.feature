@@ -1,7 +1,8 @@
 ﻿Feature: sauce Demo UI 
 
 
-@mytag
+@SauceDemo
+
 Scenario:  Sauce Demo Site
 	Given I am on sauce demo site 
 	And  I enter accepted  username 
